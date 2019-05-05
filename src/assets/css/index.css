@@ -1,20 +1,20 @@
 #app {
-  font-family: 'Ubuntu Mono derivative Powerline', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3350;
-  margin-top: 60px;
+    font-family: 'Ubuntu Mono derivative Powerline', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3350;
+    margin-top: 60px;
 }
 
 #app h1 {
-  font-size: 21pt;
+    font-size: 21pt;
 }
 
 #app h3 {
-  font-size: 16pt;
+    font-size: 16pt;
 }
 
 .clicable {
-  cursor: pointer
+    cursor: pointer
 }
