@@ -6,11 +6,12 @@ import * as actions from "./actions";
 Vue.use(Vuex);
 
 const state = {
-    user: {}
+  user: {},
+  events: []
 };
 
 export default new Vuex.Store({
-    state,
-    mutations,
-    actions
+  state,
+  mutations,
+  actions
 });
